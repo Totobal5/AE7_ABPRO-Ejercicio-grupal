@@ -1,5 +1,3 @@
-// Archivo JavaScript principal.
-
 // Por ejemplo, aquí podrías agregar una función para cuando el formulario se envía:
 document.addEventListener('DOMContentLoaded', function() {
     const form = document.getElementById('reparacion-form');
