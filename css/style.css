@@ -26,3 +26,14 @@ header h1 {
 .card-body {
     text-align: center;
 }
+
+.service-icon {
+    font-size: 4rem; /* Hacemos el ícono más grande */
+    text-align: center;
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.card-body {
+    text-align: center;
+}
